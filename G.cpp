@@ -4,10 +4,6 @@ int main(){
 	int n,sum=0;
 
 	while(~scanf("%d",&n)){
-		if(n==0){
-			break;
-		}
-		
 		int a[n];
 		
 		for(int i=0;i<n;i++){
